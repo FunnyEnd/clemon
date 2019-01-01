@@ -4,7 +4,7 @@ namespace Clemon\TemplateEngine;
 
 class View
 {
-  private const PATH = "src/TemplateEngine/Teamplates/";
+  private const PATH = __DIR__ . "/Teamplates/";
 
   public static function render(string $string, array $data)
   {
