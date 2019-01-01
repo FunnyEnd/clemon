@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Transport;
+namespace Clemon\Transport;
 
 use Swift_Mailer;
 use Swift_Message;

@@ -1,9 +1,9 @@
 <?php
 
-namespace App;
+namespace Clemon;
 
-use App\Transport\TransportInterface;
-use App\TemplateEngine\View;
+use Clemon\Transport\TransportInterface;
+use Clemon\TemplateEngine\View;
 use Exception;
 use InvalidArgumentException;
 

@@ -1,6 +1,6 @@
 <?php
 
-namespace App\TemplateEngine;
+namespace Clemon\TemplateEngine;
 
 class View
 {

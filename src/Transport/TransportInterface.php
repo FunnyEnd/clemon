@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Transport;
+namespace Clemon\Transport;
 
 interface TransportInterface
 {
