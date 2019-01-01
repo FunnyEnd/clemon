@@ -1,4 +1,13 @@
 {
+    "name": "clemon/clemon",
+    "description": "clemon php mailer",
+    "type": "library",
+    "authors": [
+        {
+            "name": "FunnyEnd",
+            "email": "kornienko_aa@yahoo.com"
+        }
+    ],
     "require": {
         "swiftmailer/swiftmailer": "^6.0"
     },
